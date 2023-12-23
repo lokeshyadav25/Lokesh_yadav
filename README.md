@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lokeshyadav25
+- 👋 Hi, I’m Lokesh_Yadav
 - 👀 I’m interested in ...coding with real life examples and have fun with algorithms
 - 🌱 I’m currently learning ...Basic of coding with mother of Programming Language C
 - 💞️ I’m looking to collaborate on ...Projects
